@@ -49,7 +49,6 @@ Recording a sale checks that the product, customer and employee exist, checks th
 | `personnel.py` | `Personnel` record |
 | `sale.py` | `Sale` record |
 | `db.py` | Creates the four tables and loads their data |
-| `shop.py` | Logic that spans several tables, such as `make_sale` |
 | `menu.py` | The console menu |
 
 ## Limitations
